@@ -1,5 +1,7 @@
 # stochastic-calculus-intro
-A brief introduction to the uses of stochastic calculus and its distinctions to ordinary calculus.
+This essay explores the stochastic models behind a Monte Carlo simulation I developed, examining how stochastic calculus differs from ordinary calculus. It provides an intuitive introduction to random walks, Brownian motion, Itô's lemma, and stochastic differential equations, highlighting how randomness influences mathematical systems.
+
 
 ##Paper 
+\\
 [PDF](./Introduction_to_Stochastic_Calculus.pdf)
